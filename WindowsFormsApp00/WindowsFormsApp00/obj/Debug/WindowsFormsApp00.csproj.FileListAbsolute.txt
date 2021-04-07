@@ -1,0 +1,10 @@
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\bin\Debug\WindowsFormsApp00.exe.config
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\bin\Debug\WindowsFormsApp00.exe
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\bin\Debug\WindowsFormsApp00.pdb
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\obj\Debug\WindowsFormsApp00.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\obj\Debug\WindowsFormsApp00.Form1.resources
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\obj\Debug\WindowsFormsApp00.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\obj\Debug\WindowsFormsApp00.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\obj\Debug\WindowsFormsApp00.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\obj\Debug\WindowsFormsApp00.exe
+C:\Users\MONSTER\source\repos\WindowsFormsApp00\WindowsFormsApp00\obj\Debug\WindowsFormsApp00.pdb
